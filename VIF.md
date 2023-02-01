@@ -1,0 +1,1 @@
+A **virtual network interface** (VIF) is an abstract virtualized representation of a computer network interface that may or may not correspond directly to a network interface controller.

@@ -1,0 +1,1 @@
+FTPS (**File Transfer Protocol Secure**) is an extension of the popular File Transfer Protocol that supports Transport Layer Security (TLS) and the new defunct Secure Sockets Layer (SSL).

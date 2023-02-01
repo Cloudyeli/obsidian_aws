@@ -1,0 +1,1 @@
+Policy documents are written in [[JSON]] (key value pair that consists of an attribute and a value).

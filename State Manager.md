@@ -1,0 +1,4 @@
+AWS State Manager
+#(AWS [[Systems Manager]])
+
+AWS [[Systems Manager]] provides configuration management, which helps you maintain consistent configuration of your Amazon [[EC2]] or on-premises instances. With Systems Manager, you can control configuration details such as server configurations, anti-virus definitions, [[firewall]] settings, and more. You can define configuration policies for your servers through the AWS Management Console or use existing scripts, PowerShell modules, or [[Ansible]] playbooks directly from GitHub or Amazon [[S3]] buckets. Systems Manager automatically applies your configurations across your instances at a time and frequency that you define. You can query Systems Manager at any time to view the status of your instance configurations, giving you on-demand visibility into your compliance status.

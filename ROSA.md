@@ -1,0 +1,3 @@
+## Red Hat OpenShift Container Platform on AWS (ROSA)
+
+Red Hat OpenShift Container Platform enables organizations to develop, deploy, and manage existing, container-based applications across their on-premises and cloud environments. By implementing Red Hat OpenShift, organizations gain access to proven and powerful open source technologies, empowering developers to quickly and easily create portable applications on-demand, while leveraging the tools and languages they were using before.

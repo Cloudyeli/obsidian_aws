@@ -1,0 +1,4 @@
+## AWS Systems Manager Run Command
+#(AWS [[Systems Manager]])
+
+AWS [[Systems Manager]] provides you safe, secure remote management of your instances at scale without logging into your servers, replacing the need for [[bastion host]]s, [[SSH]], or remote PowerShell. It provides a simple way of automating common administrative tasks across groups of [[EC2]] instances such as registry edits, user management, and software and patch installations. Through integration with AWS Identity and Access Management ([[IAM]]), you can apply granular permissions to control the actions users can perform on instances. All actions taken with Systems Manager are recorded by AWS [[CloudTrail]], allowing you to audit changes throughout your environment.

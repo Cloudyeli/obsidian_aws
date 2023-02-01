@@ -1,0 +1,2 @@
+*   Checks that the underlying hardware on which your [[EC2]] instance is running, is working operationally.
+*   If there is a problem with a system status check, it means that AWS are going to need to be involved to actually fix that problem.

@@ -1,0 +1,4 @@
+## AWS Systems Manager Automation
+#(AWS [[Systems Manager]])
+
+AWS [[Systems Manager]] allows you to safely automate common and repetitive IT operations and management tasks. With Systems Manager Automation, you use predefined playbooks, or you can build, run, and share wiki-style automated playbooks to enable AWS resource management across multiple accounts and AWS [[Region]]s. You can run [[Python]] or PowerShell scripts as part of a playbook in combination with other automation actions such as approvals, AWS [[API]] calls, or running commands on your [[EC2]] instances. These playbooks can be scheduled in a maintenance window, triggered based on changes to AWS resources through Amazon CloudWatch Events, or executed directly through the AWS Management Console, [[CLI]]s, and [[SDK]]s Automation can track the execution of each step in a playbook, require approvals, incrementally roll out changes, and automatically halt the rollout if errors occur.

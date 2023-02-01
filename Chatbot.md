@@ -1,0 +1,4 @@
+## AWS Chatbot
+
+AWS Chatbot is _an interactive agent that_ makes it easy to monitor and interact with your AWS resources from your team chat channels.
+AWS Chatbot is an interactive agent that makes it easy to set up ChatOps for AWS in your **Slack** channels or Amazon [[Chime]] chat rooms—and to securely interact with multiple AWS services. You can receive notifications about operational events, security findings, or budget alerts right in your chatroom, where your entire team can see and discuss them. You can issue AWS Command Line Interface ([[CLI]]) commands from **Slack** to retrieve diagnostic information, invoke AWS [[Lambda]] functions, configure Amazon Simple Storage Service ([[S3]]) buckets, change [[Kinesis]] shards, restart Amazon Elastic Compute Cloud ([[EC2]]) instances, and resolve AWS [[Systems Manager]] incidents.

@@ -1,0 +1,5 @@
+## AWS Alexa for Business 
+
+Alexa for Business makes it easy for you to use Alexa in your organization. Alexa for Business gives you the tools you need to manage Alexa devices, enroll your users, and assign skills, at scale. You can build your own context-aware voice skills using the Alexa Skills Kit, and the Alexa for Business APIs, and you can make these available as private skills for your organization. Alexa for Business also makes it easy to voice-enable your products and services, providing context-aware voice experiences for your customers.
+
+==Coming in June 2022, we are launching Alexa Smart Properties Core (ASP Core), a new product that lets you manage a wider range of Echo devices, and get access to many more Alexa features that are useful and relevant to your employees and customers. We request you to move to Alexa Smart Properties Core subscription as soon as feasible.

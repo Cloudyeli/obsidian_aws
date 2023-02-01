@@ -1,0 +1,4 @@
+## AWS Systems Manager Fleet Manager
+#(AWS [[Systems Manager]])
+
+AWS Systems Manager Fleet Manager streamlines your remote management process for servers and edge devices. With Fleet Manager, you save time and money by managing and troubleshooting your fleet running in the cloud or on premises, without the need to remotely connect to them. You can drill down to individual nodes (services, devices, or other resources) to perform common system management tasks such as disk and file exploration, log management, Windows Registry operations, and user management from a console. In break-glass scenarios, you can quickly gain secure shell, [[CLI]], and console-based Remote Desktop Protocol ([[RDP]]) access to your instances, from a console, to respond to issues faster.

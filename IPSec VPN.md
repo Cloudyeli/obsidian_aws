@@ -1,0 +1,2 @@
+Internet Protocol security is a group of protocols that are used together to set up encrypted connections between devices. It helps keep data sent over public networks secure. IPsec is often used to set up [[VPN]]s packets, along with authenticating the source where the packets come from.
+The Internet Protocol is the main routing protocol used on the Internet; it designates where data will go using IP addresses. IPsec is secure because it adds [[encryption]] and authentication to this process.

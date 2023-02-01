@@ -1,0 +1,1 @@
+Amazon EBS-backed AMI – The root device for an instance launched from the AMI is an Amazon Elastic Block Store ([[EBS]]) volume created from an Amazon [[EBS snapshot]].

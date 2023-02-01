@@ -1,0 +1,1 @@
+A Launch Template specifies the EC2 instance configuration

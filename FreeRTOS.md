@@ -1,0 +1,5 @@
+Developed in partnership with the world's leading chip companies over a 15-year period, and now downloaded every 170 seconds, FreeRTOS is a market-leading real-time operating system ([[RTOS]]) for microcontrollers and small microprocessors. Distributed freely under the MIT open source license, FreeRTOS includes a kernel and a growing set of libraries suitable for use across all industry sectors. FreeRTOS is built with an emphasis on reliability and ease of use.
+
+FreeRTOS includes libraries for connectivity, security, and over-the-air (OTA) updates. FreeRTOS also includes demo applications that show FreeRTOS features on [qualified boards](https://devices.amazonaws.com/search?page=1&sv=freertos).
+
+FreeRTOS is an open-source project. You can download the source code, contribute changes or enhancements, or report issues on the GitHub site at [https://github.com/FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS).

@@ -1,0 +1,1 @@
+[[IAM user]]s can be created to represent applications, and these are known as service accounts

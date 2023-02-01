@@ -1,0 +1,3 @@
+-   [[SSL]]/[[TLS]] certificates that you can use to authenticate with some AWS services.
+-   AWS recommends that you use the AWS Certificate Manager ([[ACM]]) to provision, manage and deploy your server certificates.
+-   Use [[IAM]] only when you must support [[HTTPS]] connections in a region that is not supported by [[ACM]].

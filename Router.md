@@ -1,0 +1,1 @@
+Routers interconnect subnets and direct traffic between [[Internet gateway]]s, virtual private gateways ([[VGW]]), [[NAT Gateway]], and [[subnet]]s

@@ -1,0 +1,1 @@
+Reserved Instance (EC2)

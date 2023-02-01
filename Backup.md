@@ -1,0 +1,1 @@
+AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services in the cloud as well as on premises using the AWS [[Storage Gateway]].

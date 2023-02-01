@@ -1,0 +1,8 @@
+
+Amazon FSx for Windows File Server provides a fully managed native Microsoft Windows file system so you can easily move your Windows-based applications that require file storage to AWS. Built on Windows Server, Amazon FSx provides shared file storage with the compatibility and features that your Windowsbased applications rely on, including full support for the [[SMB]] protocol and Windows [[NTFS]], Active Directory ([[AD]]) integration, and Distributed File System (DFS). Amazon FSx uses SSD storage to provide the fast performance your Windows applications and users expect, with high levels of throughput and IOPS, and consistent sub-millisecond latencies. This compatibility and performance is particularly important when moving workloads that require Windows shared file storage, like CRM, ERP, and .NET applications, as well as home directories. With Amazon FSx, you can launch highly durable and available Windows file systems that can be accessed from up to thousands of compute instances using the industry-standard SMB protocol. Amazon FSx eliminates the typical administrative overhead of managing Windows file servers. You pay for only the resources used, with no upfront costs, minimum commitments, or additional fees.
+  
+You can choose between four widely-used file systems: NetApp ONTAP, OpenZFS, Windows File Server, and Lustre.
+
+### Difference [[EFS]] and FSx
+
+**EFS works with Linux and Mac EC2 instances as a managed NAS filer.** **FSx, on the other hand, offers a managed Windows Server environment that runs Windows Server Message Block services**. As FSx uses Windows, it's compatible with all Window Server platforms.

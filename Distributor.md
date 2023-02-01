@@ -1,0 +1,4 @@
+## AWS Systems Manager Distributor
+#(AWS [[Systems Manager]])
+
+AWS [[Systems Manager]] helps you securely distribute and install software packages, such as software agents. Systems Manager Distributor allows you to centrally store and systematically distribute software packages while you maintain control over versioning. You can use Distributor to create and distribute software packages and then install them using Systems Manager [[Run Command]] and [[State Manager]]. Distributor can also use [[IAM]] policies to control who can create or update packages in your account. You can use the existing [[IAM]] policy support for Systems Manager Run Command and State Manager to define who can install packages on your hosts.

@@ -1,0 +1,3 @@
+[[SDK]] stands for **software development kit**. Also known as a devkit, the SDK is a set of software-building tools for a specific platform, including the building blocks, debuggers and, often, a framework or group of code libraries such as a set of routines specific to an operating system (OS).
+
+The _AWS SDK_ for Java simpliﬁes use of AWS Services by providing a set of libraries that are consistent and familiar for Java developers. It provides support for API lifecycle consideration such as credential management, retries, data marshaling, and serialization. The AWS SDK for Java also supports higher level abstractions for simplified development. Visit [GitHub](https://github.com/aws/?q=&type=&language=java) to see AWS-focused open source Java libraries.

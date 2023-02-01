@@ -1,0 +1,1 @@
+The AWS Tools for PowerShell let developers and administrators manage their AWS services and resources in the PowerShell scripting environment. Now you can manage your AWS resources with the same PowerShell tools you use to manage your Windows, Linux, and MacOS environments.

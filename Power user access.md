@@ -1,0 +1,1 @@
+Power user access allows all permissions except the management of groups and users in IAM.

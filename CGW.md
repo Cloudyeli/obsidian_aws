@@ -1,0 +1,1 @@
+A Customer Gateway (CGW) is the Customer side of a [[VPN]] connection.

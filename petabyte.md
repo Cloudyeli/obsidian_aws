@@ -1,0 +1,1 @@
+One petabyte holds 1000 terabytes (**TB**) or 1,000,000,000,000,000 bytes.

@@ -1,0 +1,4 @@
+## AWS Systems Manager Change Manager
+#(AWS [[Systems Manager]])
+
+AWS Systems Manager Change Manager simplifies the way you request, approve, implement, and report on operational changes to your application configuration and infrastructure on AWS and on premises. With Change Manager, you use pre-approved change workflows to help avoid unintentional results when making operational changes. Change Manager helps you safely implement changes, while detecting schedule conflicts with important business events and automatically notifying impacted approvers. Using Change Manager’s change reports, you can monitor progress and audit operational changes across your organization, providing improved visibility and accountability.

@@ -1,0 +1,3 @@
+Depending on your use case, [[Storage Gateway]] provides three types of storage interfaces for your on-premises applications: file, volume, and tape.
+
+The Tape Gateway provides your backup application with an iSCSI virtual tape library ([[VTL]]) interface, consisting of a virtual media changer, virtual tape drives, and virtual tapes. Virtual tapes are stored in Amazon S3 and can be archived to Amazon S3 Glacier or Amazon S3 Glacier Deep Archive.

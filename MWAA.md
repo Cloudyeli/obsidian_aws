@@ -1,0 +1,3 @@
+## AWS Managed Workflows for Apache Airflow (MWAA)
+
+Amazon Managed Workflows for Apache Airflow (MWAA) orchestrates your workflows using Directed Acyclic Graphs ([[DAG]]s) written in [[Python]]. You provide MWAA an Amazon Simple Storage Service ([[S3]]) bucket where your DAGs, plugins, and Python requirements reside. Then run and monitor your DAGs from the AWS Management Console, a command line interface ([[CLI]]), a software development kit ([[SDK]]), or the Apache Airflow user interface ([[UI]]).

@@ -1,0 +1,3 @@
+In computer networking, the User Datagram Protocol is one of the core communication protocols of the Internet protocol suite used to send messages to other hosts on an Internet Protocol network. Within an IP network, UDP does not require prior communication to set up communication channels or data paths.
+
+User Datagram Protocol (UDP) is **a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet**. UDP speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party.

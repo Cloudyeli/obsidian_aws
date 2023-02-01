@@ -1,0 +1,1 @@
+A BLOB (Binary Large Object ) is a large binary data object that is usually processed and stored by databases in a special form. Typical BLOBs are files like video, audio or image files

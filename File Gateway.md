@@ -1,0 +1,3 @@
+Depending on your use case, [[Storage Gateway]] provides three types of storage interfaces for your on-premises applications: file, volume, and tape.  
+
+The Amazon S3 File Gateway enables you to store and retrieve objects in Amazon Simple Storage Service ([[S3]]) using file protocols such as Network File System ([[NFS]]) and Server Message Block ([[SMB]]). Objects written through S3 File Gateway can be directly accessed in S3.

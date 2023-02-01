@@ -1,0 +1,1 @@
+NoSQL [[database]]s are designed for **distributed data stores that have extremely large data storage needs**. This is what makes NoSQL the ideal choice for big data, real-time web apps, customer 360, online shopping, online gaming, Internet of things, social networks, and online advertising applications.

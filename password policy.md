@@ -1,0 +1,1 @@
+A password policy can be defined for enforcing password length, complexity etc. (applies to all users).

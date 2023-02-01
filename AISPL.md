@@ -1,0 +1,1 @@
+Amazon Internet Services Private Limited (AISPL) is **a local legal Indian entity that acts as a seller for AWS services in India**. Customers who provide an Indian address during the account creation process are automatically redirected to create an AISPL account instead.

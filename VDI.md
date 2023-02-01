@@ -1,0 +1,1 @@
+Traditional on-premises Virtual Desktop Infrastructure (VDI) solution.

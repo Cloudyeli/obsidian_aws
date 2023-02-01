@@ -1,0 +1,3 @@
+Deep packet inspection (DPI), also called full packet inspection and information extraction (IX), is a technique for examining data to identify and filter out malware and other unwanted traffic.
+
+Each data packet contains its own content as well as a set of headers that control how it is handled by routers and other devices as it travels across the Internet. The DPI method checks not only the various headers in a packet, but also the actual data contents. DPI can look for protocol deviations, viruses, spam, intrusions, or defined criteria to decide whether to let the packet through or redirect it to another destination. Therefore, this tool is crucial for advanced IT security.

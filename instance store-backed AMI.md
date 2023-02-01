@@ -1,0 +1,1 @@
+Amazon instance store-backed AMI – The root device for an instance launched from the [[AMI]] is an [[Instance Store Volume]] created from a [[template]] stored in Amazon [[S3]].

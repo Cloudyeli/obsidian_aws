@@ -1,0 +1,1 @@
+HTTPS (Hyper Text Transfer Protocol Secure) appears in the URL when a website is secured by an [[SSL]] certificate. The details of the certificate, including the issuing authority and the corporate name of the website owner, can be viewed by clicking on the lock symbol on the browser bar.

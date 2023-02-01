@@ -1,0 +1,1 @@
+A public subnet is a subnet that is associated with a [[route table]] that has a route to an [[Internet gateway]]. This connects the [[VPC]] to the Internet and to other AWS services.
