@@ -2,7 +2,13 @@
 
 By default, instances that you launch into an Amazon VPC can't communicate with your own (remote) network. You can enable access to your remote network from your VPC by creating an AWS Site-to-Site VPN (Site-to-Site VPN) connection, and configuring routing to pass traffic through the connection.
 
-![[Pasted image 20221118114218.png]]
+*   AWS VPN is a managed [[IPSec VPN]]
+*   A [[VGW]] is deployed on the AWS site
+*   A customer gateway ([[CGW]]) is deployed on the customer side
+*   Supports static routes or [[BGP]] peering/routing
+*   [[Route table]] points to the [[VGW]]
+
+![[Pasted image 20230205194539.png]]
 
 Although the term _VPN connection_ is a general term, in this documentation, a VPN connection refers to the connection between your [[VPC]] and your own on-premises network. Site-to-Site VPN supports Internet Protocol security [[IPsec VPN]] connections.
 

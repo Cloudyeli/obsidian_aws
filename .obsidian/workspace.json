@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "06d54899511588df",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e412249fb1e17cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e30969ce10b0edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BGP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff5c1512b149bc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transit Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e1a20b5bbd220c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5be540281613731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Direct Connect.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "370a038d00f450a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffed85bcdb40c7dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58848b09021cc36b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89aa43a82da57f6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:direct connect",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "663ea8acd9837dff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa93032a58ff3891",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d8c33539f4f1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6abe5b6beb3f00a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Direct Connect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93ce0ddde7b7bdf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Direct Connect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e12d0204e0135d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a6a5250cad99720",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Direct Connect.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5be540281613731",
+  "lastOpenFiles": [
+    "Aurora.md",
+    "Direct Connect.md",
+    "VPN CloudHub.md",
+    "BGP.md",
+    "Site-to-Site VPN.md",
+    "Managed VPN.md",
+    "CGW.md",
+    "Transit Gateway.md",
+    "Transit Gateway VPN.md",
+    "Transit Gateway VPN attachment.md"
+  ]
+}

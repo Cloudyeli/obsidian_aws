@@ -2,8 +2,10 @@ A firewall is a network security device that monitors incoming and outgoing net
 
 ## Stateful vs Stateless Firewalls
 
-A [[stateful firewall]] allows the return traffic automatically
-A [[stateless firewall]] checks for an allow rule for both connections
+A [[stateful]] firewall allows the return traffic automatically
+A [[stateless]] firewall checks for an allow rule for both connections
 
 ![[Pasted image 20221117171448.png]]
+
+![[Pasted image 20221117172143.png]]
 

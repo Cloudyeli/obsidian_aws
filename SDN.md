@@ -1,0 +1,3 @@
+## Software-defined Networking ([[SDN]])
+
+Software-Defined Networking (SDN) separates the control plane (decision-making logic) from the data plane (forwarding logic) in a network, enabling network administrators to manage the entire network through a centralised control plane for increased agility and reduced complexity. This approach allows for faster response to changing business requirements and easier automation of common network tasks.

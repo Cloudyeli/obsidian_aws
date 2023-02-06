@@ -3,6 +3,9 @@ Command Line Interface (CLI)
 ### [[EC2]] CLI Command
 #command #cli #ec2
 
+##### - Checks the DNS Name of ELB/EC2 etc. #dns
+	nslookup <DNS_name>
+
 ##### - Launch [[EC2]] instance
 	aws ec2 run-instances --image-id ami-xxxxxxxx --count 1 --instance-type t2.micro
 

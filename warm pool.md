@@ -1,0 +1,1 @@
+pre-initialised instances that are sort of ready to go into action when they are needed. (See: [[ASG]])

@@ -1,0 +1,1 @@
+Controls which instances to terminate first when a scale-in event occurs ([[Auto Scaling]])

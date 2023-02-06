@@ -6,6 +6,8 @@ A VPC peering connection is a networking connection between two [[VPC]]s that en
 
 ![[Pasted image 20221117181016.png]]
 
+![[Pasted image 20230205180058.png]]
+
 When you establish peering relationships between VPCs across different AWS Regions, resources in the VPCs (for example, [[EC2]] instances and [[Lambda]] functions) in different AWS Regions can communicate with each other using private [[IP address]]es, without using a gateway, [[VPN]] connection, or network appliance.
 
 *   The traffic remains in the private IP space. 

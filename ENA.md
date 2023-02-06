@@ -4,4 +4,7 @@ The Elastic Network Adapter (ENA) in AWS **supports network speeds of up to 100
 
 *   Enhanced networking performance
 *   Higher bandwidth and lower inter-instance latency
+* supports network speeds of up to 100 Gbps for supported [[instance type]]s
 *   Must choose supported [[instance type]]
+*   Used by [[Nitro System]]s
+*   No additional costs to use ENA

@@ -1,0 +1,1 @@
+ Prevents [[Auto Scaling]] from terminating protected instances

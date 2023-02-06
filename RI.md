@@ -1,1 +1,1 @@
-Reserved Instance (EC2)
+Reserved Instance ([[EC2 pricing]])

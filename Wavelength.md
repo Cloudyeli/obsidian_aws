@@ -1,6 +1,18 @@
 ## Wavelength Zones
 
-_AWS Wavelength_ allows developers to build applications that deliver ultra-low latencies to mobile devices and end users. Wavelength deploys standard AWS compute and storage services to the edge of telecommunication carriers' 5G networks. Developers can extend a Amazon Virtual Private Cloud to one or more Wavelength Zones, and then use AWS resources like Amazon EC2 instances to run applications that require ultra-low latency and a connection to AWS services in the Region.
+* AWS Wavelength enables developers to build applications that deliver single-digit millisecond latencies to mobile devices and end-users.
+* AWS developers can deploy their applications to Wavelength Zones, AWS infrastructure deployments that embed AWS compute and storage services within the telecommunications providers’ datacenters at the edge of the 5G networks, and seamlessly access the breadth of AWS services in the region.
+* AWS Wavelength brings AWS services to the edge of the 5G network, minimizing the latency to connect to an application from a mobile device.
+
+Use cases:
+
+-   Single-digit ms latency to **mobile devices/users**
+-   Live video, [[ML]], [[AR]]/[[VR]]
+
+![[Pasted image 20230205154338.png]]
+_----
+
+AWS Wavelength_ allows developers to build applications that deliver ultra-low latencies to mobile devices and end users. Wavelength deploys standard AWS compute and storage services to the edge of telecommunication carriers' 5G networks. Developers can extend a Amazon Virtual Private Cloud to one or more Wavelength Zones, and then use AWS resources like Amazon EC2 instances to run applications that require ultra-low latency and a connection to AWS services in the Region.
 
 A Wavelength Zone is an isolated zone in the carrier location where the Wavelength infrastructure is deployed. Wavelength Zones are tied to a Region. A Wavelength Zone is a logical extension of a Region, and is managed by the control plane in the Region.
 

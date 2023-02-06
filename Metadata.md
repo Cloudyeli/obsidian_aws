@@ -11,7 +11,7 @@ Instance metadata is data about your [[EC2]] instance that you can use to config
 
 -   Instance metadata is data about your EC2 instance
 -   [[User data]] and metadata are not encrypted
--   Instance metadata is available at: ==http://169.254.169.254/latest/meta-data
+-   Instance metadata is available at: ==http://169.254.169.254/latest/meta-data/
 -   The Instance Metadata Query tool allows you to query the instance metadata without having to type out the full [[URI]] or category names.
 
 

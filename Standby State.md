@@ -1,0 +1,1 @@
+Used to put an instance in the `InService` state into the `Standby` state, to update or troubleshoot the instance (See: [[Auto Scaling]], [[ELB]])

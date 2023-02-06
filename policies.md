@@ -17,10 +17,12 @@ IAM Policies are documents that define permissions and can be applied to [[IAM u
 *   define permissions for a principal accessing the resource
 ##### - IAM [[permissions boundary]]
 *  set the maximum permissions an [[identity-based policy]] can grant an **IAM entity
-##### AWS Organizations service control policies ([[SCP]])
+##### - AWS Organizations service control policies ([[SCP]])
 *   specify the maximum permissions for [[AWS organizations]] or [[OU]]s
 ##### - [[Session policy]]
 *  used with AssumeRole* API actions
+##### - [[Tag policy]]
+helps standardise tags across resources in your AWS Organization
 
 ![[Pasted image 20230131164902.png]]
 

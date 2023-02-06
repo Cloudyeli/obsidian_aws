@@ -9,5 +9,5 @@ Integrates with several AWS services including:
 *   Elastic Load Balancing ([[ELB]])
 *   Amazon [[CloudFront]]  
 *   AWS Elastic [[Beanstalk]]
-*   AWS [[Nitro Enclaves]]  
+*   AWS [[Nitro Enclave]]s  
 *   AWS [[CloudFormation]]

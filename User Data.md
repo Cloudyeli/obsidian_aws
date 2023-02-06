@@ -4,6 +4,7 @@ User data is data that is supplied by the [[IAM user]] at instance launch in the
 *   Batch and PowerShell scripts can be run on Windows.
 *   Limited to 16 KB.
 -   User data and [[metadata]] are not encrypted.
+-   Instance user data is available at: ==http://169.254.169.254/latest/user-data
 
 ## Examples
 

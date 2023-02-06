@@ -1,0 +1,3 @@
+**[[SSL]]/[[TLS]] offloading** is the process of removing the [[SSL]]/[[TLS]] based encryption from incoming traffic that a web server receives to relieve it from decryption of data. SSL/TLS traffic can be compute intensive since it requires encryption and decryption of traffic.
+
+The encryption and decryption of SSL are CPU intensive and can put a strain on server resources. In order to balance the compute demands of SSL encryption and decryption of traffic sent via SSL connections, SSL offloading moves that processing to a dedicated server. This frees the web server to handle other [application delivery demands.](https://avinetworks.wpengine.com/software-load-balancer/)

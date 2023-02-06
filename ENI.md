@@ -2,3 +2,4 @@
 
 -   Basic adapter type for when you don’t have any high-performance requirements
 -   Can be used with all [[instance type]]s
+-   No additional costs to use ENI

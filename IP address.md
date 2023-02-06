@@ -1,5 +1,3 @@
-![[Pasted image 20221117173119.png]]
-
 ## public IP:
 
 *   Public IP is dynamic and lost when instance is stopped
@@ -19,7 +17,10 @@
 *   Elastic IPs can be moved between instances  
 *   Elastic IPs are chargeable if not used
 
+![[Pasted image 20221117173119.png]]
 
 
 
+![[Pasted image 20230201180822.png]]
 
+![[Pasted image 20230201180912.png]]

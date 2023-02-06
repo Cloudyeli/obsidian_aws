@@ -4,7 +4,7 @@ AWS Trusted Advisor provides recommendations that help you follow AWS best pract
 
 -   Online resource that helps to reduce cost, increase performance and improve security by optimizing your AWS environment
 -   Provides real time guidance to help you provision your resources following best practices
--   Advises you on **Cost Optimization**, **Performance**, **Security**, and **Fault Tolerance**
+-   Advises you on **Cost Optimization**, **Performance**, **Security**, and **[[Fault Tolerance]]**
 
 ![[Pasted image 20221119143459.png]]
 
@@ -32,7 +32,7 @@ Trusted Advisor can help improve the security of your AWS environment by suggest
 
 ### Fault tolerance
 
-Trusted Advisor can help improve the reliability of your services. Examples include examining [[EC2 Auto scaling]] groups, deleted health checks on [[Route 53]], disabled [[AZ]]s, and disabled [[RDS]] backups.  
+Trusted Advisor can help improve the reliability of your services. Examples include examining [[EC2]] Auto scaling groups ([[ASG]]), deleted health checks on [[Route 53]], disabled [[AZ]]s, and disabled [[RDS]] backups.  
 
 ### Service quotas
 

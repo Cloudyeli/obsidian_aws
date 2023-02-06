@@ -1,0 +1,1 @@
+A bare-metal server is **a physical computer server that is used by one consumer, or tenant, only**. Each server offered for rental is a distinct physical piece of hardware that is a functional server on its own. They are not virtual servers running in multiple pieces of shared hardware.

@@ -7,11 +7,11 @@ AWS Transit Gateway is an AWS managed high availability and scalability regiona
 
 ![[Pasted image 20221118114711.png]]
 
-### AWS Transit Gateway + VPN
+### AWS [[Transit Gateway VPN]]
 
-AWS Transit Gateway + [[VPN]], using the [[Transit Gateway VPN attachment]], provides the option of creating an [[IPsec VPN]] connection between your remote network and the Transit Gateway over the internet, as shown in the following figure.
+AWS Transit Gateway + [[VPN]], using the Transit Gateway VPN attachment, provides the option of creating an [[IPsec VPN]] connection between your remote network and the Transit Gateway over the internet, as shown in the following figure.
 
-*   Connects VPCs and on-premises networks through a central hub
+*   Connects [[VPC]]s and on-premises networks through a central hub
 *   Simplifies network configuration
 
 ![](https://docs.aws.amazon.com/images/whitepapers/latest/aws-vpc-connectivity-options/images/image4.png)
@@ -23,3 +23,7 @@ Consider using this approach when you want to take advantage of an AWS [[managed
 AWS Transit Gateway also supports and encourages multiple user gateway connections so that you can implement redundancy and failover on your side of the VPN connection as shown in the following figure.
 
 ![](https://docs.aws.amazon.com/images/whitepapers/latest/aws-vpc-connectivity-options/images/image5.png)
+
+For More look:
+[How Transit Gateway works](https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html)
+[Advanced AWS Networking: Pitfalls That You Should Avoid](https://cloudonaut.io/advanved-aws-networking-pitfalls-that-you-should-avoid/#:~:text=AWS%20network%20architecture.-,A%20Transit%20Gateway%20simplifies%20peering%20VPCs.,traffic%20will%20increase%20by%2050%25.)
