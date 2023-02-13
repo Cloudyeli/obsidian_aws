@@ -1,7 +1,6 @@
 A subnet, or subnetwork, is a range of IP addresses in your [[VPC]], like a network inside a network. 
 Subnets make networks more efficient. Through subnetting, network traffic can travel a shorter distance without passing through unnecessary routers to reach its destination.
-The only difference between private and public subnet is, that a public subnet has just a privat IP adress assigned, while a public subnet also has a public IP Adress assigned.
-
+The only difference between private and public subnet is, that a public subnet has just a privat IP address assigned, while a public subnet also has a public IP Adress assigned.
 
 ## public subnet
 

@@ -11,7 +11,7 @@ To ensure that resources are distributed across the Availability Zones for a reg
 *   To coordinate Availability Zones across accounts, you must use the _AZ ID_, which is a unique and consistent identifier for an Availability Zone.
 *   AZs are physically separated within a typical metropolitan region and are in lower risk flood plains.
 *   AZs use discrete UPS and onsite backup generation facilities and are fed via different grids from independent facilities.
-*   AZs are all redundantly connected to multiple tier-1 transit providers.
+*   AZs are all redundantly connected to multiple [[tier]]-1 transit providers.
 
 The following graphic shows three AWS Regions each of which has three Availability Zones:
 

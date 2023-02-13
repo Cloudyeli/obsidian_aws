@@ -18,4 +18,4 @@ AWS X-Ray provides a complete view of requests as they travel through your appli
 
 -   With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors.
 -   X-Ray provides an end-to-end view of requests as they travel through your application and shows a map of your application’s underlying components.
--   You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of service.
+-   You can use X-Ray to analyze both applications in development and in production, from simple three-[[tier]] applications to complex microservices applications consisting of thousands of service.

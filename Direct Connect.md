@@ -11,6 +11,8 @@ AWS Direct Connect (DX) is **a network service that provides an alternative to 
 *   Consistent network experience – **increased speed/latency & bandwidth/throughput**  
 *   Lower costs for organisations that transfer **large volumes of data**
 
+[Since Mar, 2021, Direct Connect supports L2 encryption. So, I would choose 'C'](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-direct-connect-announces-macsec-encryption-for-dedicated-10gbps-and-100gbps-connections-at-select-locations/)
+
 | | Direct Connect (DX) | Direct Connect (DX) + [[VPN]] |
 | --- | --- | --- | 
 | **What** | Dedicated network connection over private lines straight into the AWS backbone | IPSec VPN connection over private lines (Direct Connect)

@@ -50,9 +50,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direct Connect.md",
+                "file": "Guardrails.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -87,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:direct connect",
+                "query": "file:contro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Direct Connect.md",
+                "file": "Guardrails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Direct Connect.md",
+                "file": "Guardrails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direct Connect.md"
+                "file": "Guardrails.md"
               }
             }
           }
@@ -188,15 +187,15 @@
   },
   "active": "b5be540281613731",
   "lastOpenFiles": [
-    "Aurora.md",
-    "Direct Connect.md",
-    "VPN CloudHub.md",
-    "BGP.md",
-    "Site-to-Site VPN.md",
-    "Managed VPN.md",
-    "CGW.md",
-    "Transit Gateway.md",
-    "Transit Gateway VPN.md",
-    "Transit Gateway VPN attachment.md"
+    "Control Tower.md",
+    "Amplify.md",
+    "Glue.md",
+    "AWS Glue.md",
+    "Snowball Edge.md",
+    "Snow Family.md",
+    "Snowball.md",
+    "Snowcone.md",
+    "IP address.md",
+    "SageMaker.md"
   ]
 }
